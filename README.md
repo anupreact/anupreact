@@ -6,7 +6,7 @@ I'm [Anup Manwatkar](https://react-dev-portfolio.000webhostapp.com/), a passiona
 
  ###### -💼 Any freelance work? reach me [email](mailto:anupmanwatkar17@gmail.com)
 
- ###### -💬  Ask me anything frontend wed development, i am happy to help.
+ ###### -💬  Ask me anything about frontend wed development, i am happy to help.
  
  
  ##### Languages and tools:
