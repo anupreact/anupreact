@@ -2,7 +2,7 @@
 #### Hey there 👋 
 [<img src="https://user-images.githubusercontent.com/112165142/199464995-d1c6250b-98a2-4eb2-b982-2952e7f6edd8.png" width="25" height="25">](https://www.linkedin.com/in/iamanup17) &nbsp; [<img src="https://user-images.githubusercontent.com/112165142/199465214-0dcd3368-0558-4c32-a330-2c32e2fa2419.png" width="25" height="25">](mailto:anupmanwatkar17@gmail.com) &nbsp; [<img src="https://user-images.githubusercontent.com/112165142/199465251-51b6b785-5459-4dea-abee-2c1e41646d07.png" width="25" height="25">](https://join.skype.com/invite/x6hEOBuO7Lpm) &nbsp; [<img src="https://user-images.githubusercontent.com/112165142/199465350-bd66e584-e721-4913-89a1-253087537c1c.png" width="25" height="25">](https://t.me/anup_manwatkar) &nbsp; [<img src="https://user-images.githubusercontent.com/112165142/199465442-5dc1bd12-04d8-4aa3-96b7-cb24cd9df658.png" width="25" height="25">](https://www.facebook.com/anup.manwatkar)  
 
-I'm [Anup Manwatkar](https://react-dev-portfolio.000webhostapp.com/), a passionate front-end web developer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+I'm [Anup Manwatkar](https://anupmanwatkar.netlify.app/), a passionate front-end web developer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
  ###### -💼 Any freelance work? reach me [email](mailto:anupmanwatkar17@gmail.com)
 
